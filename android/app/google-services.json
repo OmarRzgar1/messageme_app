@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082396289407",
+    "project_id": "messageme-app-f7844",
+    "storage_bucket": "messageme-app-f7844.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082396289407:android:b373de074ce89b4933124a",
+        "android_client_info": {
+          "package_name": "com.omar.messageme_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082396289407-nmqkc6j5tmdp99ho7p4g4rdm5ph3drf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsNjiZEY_P5n27YpmTqurVe44lydX85e0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082396289407-nmqkc6j5tmdp99ho7p4g4rdm5ph3drf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
